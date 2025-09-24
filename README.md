@@ -29,7 +29,7 @@ Expected:
 
 ## Requirements & set up
 
-- Ruby == 3.0.6
+- Ruby - Any recent version should be good
 
 Install the dependencies:
 ```
